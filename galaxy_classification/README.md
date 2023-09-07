@@ -1,4 +1,6 @@
 # Galaxy Classification using Machine Learning
+**Update (Sept. 2023)**: Added mini-xception model with convnet filter visualizations using Keras/Tensorflow. Also tested LightGBM baseline model.
+
 **Note**: Some figures below can not be fully seen with GitHub's dark theme. Please click on them for additional details.
 ## Abstract
 With the new James-Webb telescope, science & technology allow us to probe deeper into space than ever before. As we survey and collect heaps of data from space, it is important to efficiently and accuratly analyze such data. Particularly, space data consists of telescopic images that can be classified and analyzed using modern machine learning techniques. In this project, we use PCA, CNNs, and transfer-learning to classify different types of galaxies.
@@ -158,3 +160,5 @@ In future, we wish to experiment further with deeper CNNs, and with other traini
 \[3] https://cloud.google.com/tpu/docs/inception-v3-advanced
 \[4]: https://arxiv.org/abs/2102.08414 
 https://arxiv.org/abs/2102.08414 
+
+*Preliminary work done in collaboration with Joshua Pierce as part of DS 4400 Final Project.*
