@@ -7,3 +7,5 @@ Given my interests in the intersections of physics and machine learning, here's 
 **Neural Style Transfer**: This is more related to Deep Learning than  Astronomy/Astrophysics where I transfer the art styles of some of my favorite painters to images of celestial objects via neural style transfer.
 
 **Variable Stars Classification (In Progress)**: I aim to classify variable stars using light-curve data and RNN autoencoders as described in [this paper.](https://www.nature.com/articles/s41550-017-0321-z)
+
+*These are projects in which I aim to apply skills I learned from François Chollet's 'Deep Learning with Python (2nd Ed.)' to my personal interest in astronomy.*
